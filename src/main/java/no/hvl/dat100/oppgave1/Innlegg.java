@@ -86,4 +86,4 @@ public abstract class Innlegg {
 		return id + "\n" + bruker + "\n" + dato + "\n" + likes + "\n";
 	}
 
-} }
+}
