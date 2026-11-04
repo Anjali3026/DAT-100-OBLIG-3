@@ -61,7 +61,6 @@ public abstract class Innlegg {
 	}
 
 
-
 	//d
 	public int getLikes() {
 		return likes;
